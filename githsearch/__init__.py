@@ -4,7 +4,7 @@
 __title__ = 'githsearch'
 __version__ = '0.1.0'
 __author__ = 'bayang <wabayang@gmail.com>'
-__repo__ = 'https://github.com/bayang/'
+__repo__ = 'https://github.com/bayang/githsearch'
 __license__ = 'WTFPL'
 
 from .githsearch import GithSearch

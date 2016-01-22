@@ -23,7 +23,7 @@ setup(
     long_description=long_description,
 
     # The project's main homepage.
-    url='https://github.com/pypa/sampleproject',
+    url='https://github.com/bayang/githsearch',
 
     # Author details
     author='bayang',
@@ -71,7 +71,7 @@ setup(
     # installed, specify them here.  If using Python 2.6 or less, then these
     # have to be included in MANIFEST.in as well.
     # package_data={
-        'sample': ['package_data.dat'],
+    #    'sample': ['package_data.dat'],
     # },
 
     # Although 'package_data' is the preferred approach, in some case you may
